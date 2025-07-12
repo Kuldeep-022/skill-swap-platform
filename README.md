@@ -1,5 +1,5 @@
-# StackIt
-A Minimal Q&amp;A Forum Platform
+# Skill Swap Platform
+A mini application that enables users to list their skills and request others in return.
 
 Name: Kuldeep Singh Shekhawat
 <br>
